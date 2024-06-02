@@ -26,5 +26,3 @@ while True:
     elif ch == "e":
         mixer.music.stop()
         break
-
-# Follow @code_snail
